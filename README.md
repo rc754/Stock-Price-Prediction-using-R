@@ -6,3 +6,11 @@ Forecasting accuracy is the most important factor in selecting any forecasting m
 ## Aim
  In our project we have employed several methods/algorithms for forecasting stock prices, which are ARIMA, GARCH, Prophet, K-Nearest Neighbours regression, Feed Forward Neural Networks and ETS. Further, we have compared the respective accuracies to determine the best model. These methods are applied on Amazon Stock Price data, spanning 5
 years, retrieved from Yahoo Finance API. The results will be used to analyze the stock prices and their prediction in depth, in future research efforts.
+
+## Methodologies 
+- ARIMA Modeling
+- GARCH Modeling
+- Prophet Forecasting
+- KNN Regression Time Series Forecasting
+- Feed Forward Neural Network
+- ETS Modeling
